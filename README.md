@@ -1,6 +1,6 @@
-# Space Game
+# Digital Circus
 
-Este es un juego simple desarrollado en Python utilizando la librería Pygame. En "Space Game", controlas un personaje que debe evitar burbujas que caen desde la parte superior de la pantalla. El objetivo es sobrevivir el mayor tiempo posible y acumular puntos evitando las burbujas.
+Este es un juego simple desarrollado en Python utilizando la librería Pygame. En "Digital Circus", controlas un personaje que debe evitar burbujas que caen desde la parte superior de la pantalla. El objetivo es sobrevivir el mayor tiempo posible y acumular puntos evitando las burbujas.
 
 ## Características
 
